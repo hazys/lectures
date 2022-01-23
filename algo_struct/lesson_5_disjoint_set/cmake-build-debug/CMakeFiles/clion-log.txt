@@ -1,0 +1,4 @@
+/snap/clion/175/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/175/bin/ninja/linux/ninja -G Ninja /home/user/projects/cpp/lesson_5_disjoint_set
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/user/projects/cpp/lesson_5_disjoint_set/cmake-build-debug
