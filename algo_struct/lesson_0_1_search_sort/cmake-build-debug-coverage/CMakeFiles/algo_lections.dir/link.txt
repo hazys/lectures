@@ -1,0 +1,1 @@
+/usr/bin/c++ --coverage -g CMakeFiles/algo_lections.dir/main.cpp.o CMakeFiles/algo_lections.dir/lection_0_search.cpp.o CMakeFiles/algo_lections.dir/lesson_1_sort.cpp.o CMakeFiles/algo_lections.dir/galoping_merge.cpp.o CMakeFiles/algo_lections.dir/my_merge.cpp.o -o algo_lections 

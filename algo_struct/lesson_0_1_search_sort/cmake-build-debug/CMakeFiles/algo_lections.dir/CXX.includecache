@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/user/projects/cpp/lesson_0_1_search_sort/galoping_merge.h
+
+/home/user/projects/cpp/lesson_0_1_search_sort/lection_0_search.h
+
+/home/user/projects/cpp/lesson_0_1_search_sort/lesson_1_sort.h
+
+/home/user/projects/cpp/lesson_0_1_search_sort/main.cpp
+iostream
+-
+lection_0_search.h
+/home/user/projects/cpp/lesson_0_1_search_sort/lection_0_search.h
+lesson_1_sort.h
+/home/user/projects/cpp/lesson_0_1_search_sort/lesson_1_sort.h
+chrono
+-
+galoping_merge.h
+/home/user/projects/cpp/lesson_0_1_search_sort/galoping_merge.h
+algorithm
+-
+my_merge.h
+/home/user/projects/cpp/lesson_0_1_search_sort/my_merge.h
+
+/home/user/projects/cpp/lesson_0_1_search_sort/my_merge.h
+
